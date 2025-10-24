@@ -18,8 +18,14 @@
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-7A1FA2?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
@@ -105,6 +111,27 @@
 **Concepts:** OOP, Design Patterns, Agile Development  
 
 ---
+
+## 🔭 Current Focus & Projects
+
+- **PHP (Symfony, Laravel, Livewire)** — main technology in my current work.  
+  Building and maintaining complex microservices for billing, subscription, and content delivery platforms.
+
+- **Java (Spring Boot)** — working on **SQS-based services** such as `payment-service` and `notification-service`  
+  for asynchronous communication and event-driven architecture.
+
+- **Python (FastAPI, LLM Integration)** — developing **AI-model microservices**, integrating **language models** and data pipelines  
+  for intelligent automation and content analysis.
+
+- **Go (Golang)** — personal development projects.  
+  Exploring **ent**, **gRPC**, **Protobuf**, and **Google Wire** for type-safe, scalable microservice design.
+
+- **NestJS (TypeScript)** — personal learning and experimentation with **GraphQL**, **Passport.js**, and **microservice architecture**.
+
+---
+
+💬 *Currently expanding my expertise in distributed systems, AI integrations, and language model–driven backends.*
+
 
 ## 🎓 Education
 
